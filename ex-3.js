@@ -1,4 +1,3 @@
-// Start coding here
 let add = (a, b) => {
   return a + b;
 };

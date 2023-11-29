@@ -1,4 +1,3 @@
-// Start coding here
 const calculator = {
   add: function add(a, b) {
     return a + b;
